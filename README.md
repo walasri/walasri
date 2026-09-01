@@ -13,12 +13,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=walasri&theme=dark&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=7C3AED&border=0891B2" alt="GitHub Streak" width="100%" />
 </p>
 
-<!-- Phase 3: Contribution Snake (add after Action runs green) -->
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walasri/walasri/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walasri/walasri/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/walasri/walasri/output/github-contribution-grid-snake-dark.svg" />
-</picture> -->
+</picture>
 
 <p align="center">
   <a href="mailto:asrcyber@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
